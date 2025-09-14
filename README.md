@@ -18,3 +18,7 @@ The application was developed to support research on **radioactive substance dis
 
 * Providing **readable meteorological datasets** from Vaisala WXT520 sensors.
 * Streamlining the workflow for researchers to prepare input data for **PC-COSYMA** and other analysis tools.
+  
+### 🧑‍💻 Developers
+* Muhamad Hilmi Haidar
+* Nabila Putri Rihan 
