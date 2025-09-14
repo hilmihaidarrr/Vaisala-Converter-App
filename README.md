@@ -3,8 +3,7 @@
 **Vaisala Converter App** is a **Python-based desktop application (Tkinter/CustomTkinter)** designed to simplify the process of converting raw data from the **Vaisala WXT520 weather sensor**. Typically, the sensor outputs data in **ASCII (.txt)** format, which can be difficult to interpret directly. This application provides a clean and user-friendly interface to convert raw logs into more accessible formats:
 
 * **CSV (Comma-Separated Values)** → Easily analyzed using tools like **Excel**, **Pandas**, or other statistical software.
-* **MH2 (Meteorological Data Format for PC-COSYMA)** → A standard format that can be directly used as input for **PC-COSYMA** in nuclear dispersion simulations.
-
+  
 ### ✨ Key Features
 
 * 🔄 **Automatic Conversion** from `.txt` to both **.csv** and **.mh2**.
